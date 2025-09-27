@@ -43,7 +43,7 @@ certifications:
 
 contact: nmanning4@outlook.com
 
-2026 Goals: ["Gain Certification in Terraform, and A+']
+2026 Goals: ["Obtain Terraform Associate, and CompTIA A+ Certification"]
 
 interests:
   [
