@@ -50,6 +50,7 @@ interests:
     "Vinyl Collector",
     "Founder of The Listening Room: Sounds & Stories",
     "Lego Enthusiast",
-    "Sneaker Connoisseur"
+    "Sneaker Connoisseur",
+    "Basketball Fan"
   ]
 ```
