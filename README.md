@@ -15,7 +15,7 @@ technical_fields_of_interests:
     "Mobile App Development",
     "Internet of Things",
     "Artificial Intelligence",
-    "Data Analyst"
+    "Data Analysis"
   ]
 
 technical_background:
