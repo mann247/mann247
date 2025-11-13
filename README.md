@@ -31,7 +31,8 @@ tech_stack:
       "JavaScript",
       "Node.js",
       "Express.js",
-      "SQL"
+      "SQL",
+      "React.js"
   ]
 
 certifications:
