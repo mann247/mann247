@@ -34,8 +34,7 @@ tech_stack:
       "SQL",
       "React.js",
       "React Native",
-      "Python",
-      "
+      "Python"
   ]
 
 certifications:
