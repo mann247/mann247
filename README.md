@@ -20,7 +20,7 @@ technical_fields_of_interests:
 
 technical_background:
   [
-    "Solutions Architect - Amazon Web Services",
+    "Associate Solutions Architect - Amazon Web Services",
     "Solutions Architect Intern - Amazon Web Services",
     "Summer Technology Intern - American International Group"
   ]
@@ -32,7 +32,10 @@ tech_stack:
       "Node.js",
       "Express.js",
       "SQL",
-      "React.js"
+      "React.js",
+      "React Native",
+      "Python",
+      "
   ]
 
 certifications:
