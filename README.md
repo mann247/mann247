@@ -3,10 +3,11 @@
 👩🏾‍💻 About Me
 ```yaml
 name: Nia Manning
-current_job: Coding Apprentice
-company: RoadToHire
+current_job: Looking for next opportunity
+company: Looking for next opportunity
 education: Bachelor of Science in Computer Science
 university: Winston-Salem State University
+honors: Magna Cum Laude (3.7/4.0)
 
 technical_fields_of_interests:
   [
@@ -41,12 +42,13 @@ certifications:
   [
     "AWS Solutions Architect Professional",
     "AWS Solutions Architect Associate",
-    "AWS Cloud Practitioner"
+    "AWS Cloud Practitioner",
+    "GIAC Information Security Fundamentals"
   ]
 
 contact: nmanning4@outlook.com
 
-2026 Goals: ["Obtain Terraform Associate, and CompTIA A+ Certification"]
+2026 Goals: ["Obtain Project Management Professional Certification"]
 
 interests:
   [
